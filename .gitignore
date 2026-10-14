@@ -1,0 +1,10 @@
+node_modules
+.next
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+# copied from node_modules/dseg by the postinstall script
+public/fonts
+# iCloud Desktop sync conflict copies
+* 2.*
+* 2
